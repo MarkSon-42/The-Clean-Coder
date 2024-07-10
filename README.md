@@ -1,4 +1,8 @@
 # The-Clean-Coder
+
+![image](https://github.com/MarkSon-42/The-Clean-Coder/assets/84828274/c72289ad-9602-4ebb-9688-b91fbf4c2920)
+
+
 Robert C. Martin [The Clean Coder]  , 역자 : 정희종
 
 https://github.com/unclebob
